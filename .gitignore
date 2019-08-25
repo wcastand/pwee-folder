@@ -32,3 +32,4 @@ cabal.sandbox.config
 .stack-work/
 .cache
 public
+.floss
